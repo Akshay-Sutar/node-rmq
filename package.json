@@ -1,0 +1,24 @@
+{
+  "name": "node-rmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay-Sutar/node-rmq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay-Sutar/node-rmq/issues"
+  },
+  "homepage": "https://github.com/Akshay-Sutar/node-rmq#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "uuid": "^8.3.2"
+  }
+}
